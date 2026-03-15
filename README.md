@@ -24,3 +24,14 @@ Images per Class: 250 and 250+
 
 ### Screenshot of the training settings
 <img width="1522" height="815" alt="image" src="./training-settings.png" />
+
+### D. Model Evaluation
+The following metrics were captured from the "Under the Hood" section of Teachable Machine.
+
+#### Confusion Matrix
+<img width="382" height="756" alt="image" src="" />
+
+<img width="377" height="786" alt="image" src="" />
+
+#### Accuracy per Epoch
+<img width="368" height="602" alt="image" src="" />
