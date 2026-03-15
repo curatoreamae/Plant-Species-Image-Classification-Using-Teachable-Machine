@@ -32,7 +32,7 @@ The following metrics were captured from the "Under the Hood" section of Teachab
 <img width="382" height="756" alt="image" src="./confusion-matrix.png" />
 
 #### Accuracy per Class
-<img width="377" height="786" alt="image" src="./accuracy-per-class" />
+<img width="377" height="786" alt="image" src="./accuracy-per-class.png" />
 
 #### Accuracy per Epoch
-<img width="368" height="602" alt="image" src="./accuracy-per-epoch" />
+<img width="368" height="602" alt="image" src="./accuracy-per-epoch.png" />
