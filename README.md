@@ -23,3 +23,4 @@ Learning Rate: 0.001
 Images per Class: 250 and 250+
 
 ### Screenshot of the training settings
+<img width="1522" height="815" alt="image" src="./training-settings.png" />
