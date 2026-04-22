@@ -1,3 +1,27 @@
+This project presents a collection of 20 different conifer plant species, identified and organized based on their common names, scientific names, and distinctive visual characteristics. The purpose of this compilation is to provide a clear and structured reference for recognizing various evergreen plants, particularly those commonly used in landscaping and ornamental gardening. Each plant entry is supported with representative images to enhance visual identification and understanding.
+
+| #  | Common Name            | Scientific Name                | Distinctive Visual Description                                      | Image |
+|----|------------------------|--------------------------------|---------------------------------------------------------------------|-------|
+| 1  | Nordmann Fir           | *Abies nordmanniana*           | Dense dark green needles with soft texture and symmetrical shape.  | ![Abies](images/1.jpg) |
+| 2  | Norfolk Island Pine    | *Araucaria heterophylla*       | Layered branches forming a symmetrical pyramid shape.              | ![Araucaria](images/2.jpg) |
+| 3  | Arizona Cypress        | *Cupressus arizonica*          | Blue-gray foliage with a conical form and rough bark.              | ![Arizona Cypress](images/3.jpg) |
+| 4  | White Cypress Pine     | *Callitris columellaris*       | Fine, needle-like leaves with a narrow upright growth habit.       | ![Callitris](images/4.jpg) |
+| 5  | Lawson Cypress         | *Chamaecyparis lawsoniana*     | Soft scale-like foliage with feathery texture and elegant form.    | ![Lawson Cypress](images/5.jpg) |
+| 6  | Sawara Cypress         | *Chamaecyparis pisifera*       | Delicate thread-like or feathery foliage, often bright green.      | ![Sawara Cypress](images/6.jpg) |
+| 7  | Italian Cypress (Gold) | *Cupressus sempervirens*       | Tall narrow column shape with golden-green foliage.                | ![Gold Cypress](images/7.jpg) |
+| 8  | Monterey Cypress       | *Cupressus macrocarpa*         | Broad spreading crown with dense dark green foliage.               | ![Monterey Cypress](images/8.jpg) |
+| 9  | Himalayan Cypress      | *Cupressus torulosa*           | Graceful drooping branches with soft green foliage.                | ![Himalayan Cypress](images/9.jpg) |
+| 10 | Chinese Juniper        | *Juniperus chinensis*          | Dense evergreen shrub/tree with scale-like green foliage.          | ![Juniperus chinensis](images/10.jpg) |
+| 11 | Eastern Red Cedar      | *Juniperus virginiana*         | Compact conical tree with blue-green foliage and berry cones.      | ![Juniperus virginiana](images/11.jpg) |
+| 12 | Leyland Cypress        | *Cupressus × leylandii*        | Fast-growing hybrid with dense feathery foliage.                   | ![Leyland Cypress](images/12.jpg) |
+| 13 | Oriental Arborvitae    | *Platycladus orientalis*       | Upright branches with flattened sprays of bright green leaves.     | ![Arborvitae](images/13.jpg) |
+| 14 | White Spruce           | *Picea glauca*                | Conical tree with short stiff needles and bluish-green color.      | ![White Spruce](images/14.jpg) |
+| 15 | Stone Pine             | *Pinus pinea*                 | Umbrella-shaped canopy with long needles and thick trunk.          | ![Stone Pine](images/15.jpg) |
+| 16 | Buddhist Pine          | *Podocarpus macrophyllus*     | Long narrow glossy leaves with a neat upright growth habit.        | ![Podocarpus](images/16.jpg) |
+| 17 | Coast Redwood          | *Sequoia sempervirens*        | Very tall tree with reddish bark and soft flat needles.            | ![Redwood](images/17.jpg) |
+| 18 | Bald Cypress           | *Taxodium distichum*          | Deciduous conifer with feathery leaves and buttressed trunk base.  | ![Bald Cypress](images/18.jpg) |
+| 19 | English Yew            | *Taxus baccata*               | Dark green needle-like leaves with red berry-like arils.           | ![Yew](images/19.jpg) |
+| 20 | American Arborvitae    | *Thuja occidentalis*          | Dense conical shrub/tree with scale-like bright green foliage.     | ![Thuja](images/20.jpg) |
 
 # Plant Species Image Classification
 ## Laboratory Work 2-A Activity
