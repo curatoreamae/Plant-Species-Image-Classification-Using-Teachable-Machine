@@ -14,7 +14,7 @@ This project presents a collection of 20 different conifer plant species, identi
 | 10 | Chinese Juniper        | *Juniperus chinensis*          | Dense evergreen shrub/tree with scale-like green foliage.          | ![Juniperus chinensis](./image10.png) |
 | 11 | Eastern Red Cedar      | *Juniperus virginiana*         | Compact conical tree with blue-green foliage and berry cones.      | ![Juniperus virginiana](./image11.png) |
 | 12 | Leyland Cypress        | *Cupressus × leylandii*        | Fast-growing hybrid with dense feathery foliage.                   | ![Leyland Cypress](./image12.png) |
-| 13 | Oriental Arborvitae    | *Platycladus orientalis*       | Upright branches with flattened sprays of bright green leaves.     | ![Arborvitae](images/13.png) |
+| 13 | Oriental Arborvitae    | *Platycladus orientalis*       | Upright branches with flattened sprays of bright green leaves.     | ![Arborvitae](image13.png) |
 | 14 | White Spruce           | *Picea glauca*                | Conical tree with short stiff needles and bluish-green color.      | ![White Spruce](./image14.png) |
 | 15 | Stone Pine             | *Pinus pinea*                 | Umbrella-shaped canopy with long needles and thick trunk.          | ![Stone Pine](./image15.png) |
 | 16 | Buddhist Pine          | *Podocarpus macrophyllus*     | Long narrow glossy leaves with a neat upright growth habit.        | ![Podocarpus](./image16.png) |
