@@ -3,8 +3,8 @@ This project presents a collection of 20 different conifer plant species, identi
 | #  | Common Name            | Scientific Name                | Distinctive Visual Description                                      | Image |
 |----|------------------------|--------------------------------|---------------------------------------------------------------------|-------|
 | 1  | Nordmann Fir           | *Abies nordmanniana*           | Dense dark green needles with soft texture and symmetrical shape.  | ![Abies](./image1.png) |
-| 2  | Norfolk Island Pine    | *Araucaria heterophylla*       | Layered branches forming a symmetrical pyramid shape.              | ![Araucaria](images/2.jpg) |
-| 3  | Arizona Cypress        | *Cupressus arizonica*          | Blue-gray foliage with a conical form and rough bark.              | ![Arizona Cypress](images/3.jpg) |
+| 2  | Norfolk Island Pine    | *Araucaria heterophylla*       | Layered branches forming a symmetrical pyramid shape.              | ![Araucaria](./image2.png) |
+| 3  | Arizona Cypress        | *Cupressus arizonica*          | Blue-gray foliage with a conical form and rough bark.              | ![Arizona Cypress](./image/3.png) |
 | 4  | White Cypress Pine     | *Callitris columellaris*       | Fine, needle-like leaves with a narrow upright growth habit.       | ![Callitris](images/4.jpg) |
 | 5  | Lawson Cypress         | *Chamaecyparis lawsoniana*     | Soft scale-like foliage with feathery texture and elegant form.    | ![Lawson Cypress](images/5.jpg) |
 | 6  | Sawara Cypress         | *Chamaecyparis pisifera*       | Delicate thread-like or feathery foliage, often bright green.      | ![Sawara Cypress](images/6.jpg) |
