@@ -7,7 +7,7 @@ This project presents a collection of 20 different conifer plant species, identi
 | 3  | Arizona Cypress        | *Cupressus arizonica*          | Blue-gray foliage with a conical form and rough bark.              | ![Arizona Cypress](./image3.png) |
 | 4  | White Cypress Pine     | *Callitris columellaris*       | Fine, needle-like leaves with a narrow upright growth habit.       | ![Callitris](./image4.png) |
 | 5  | Lawson Cypress         | *Chamaecyparis lawsoniana*     | Soft scale-like foliage with feathery texture and elegant form.    | ![Lawson Cypress](./image5.png) |
-| 6  | Sawara Cypress         | *Chamaecyparis pisifera*       | Delicate thread-like or feathery foliage, often bright green.      | ![Sawara Cypress](./images6.png) |
+| 6  | Sawara Cypress         | *Chamaecyparis pisifera*       | Delicate thread-like or feathery foliage, often bright green.      | ![Sawara Cypress](./image6.png) |
 | 7  | Italian Cypress (Gold) | *Cupressus sempervirens*       | Tall narrow column shape with golden-green foliage.                | ![Gold Cypress](./image7.png) |
 | 8  | Monterey Cypress       | *Cupressus macrocarpa*         | Broad spreading crown with dense dark green foliage.               | ![Monterey Cypress](./image8.png) |
 | 9  | Himalayan Cypress      | *Cupressus torulosa*           | Graceful drooping branches with soft green foliage.                | ![Himalayan Cypress](./image9.png) |
